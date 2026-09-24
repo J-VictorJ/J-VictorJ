@@ -8,10 +8,6 @@
   <a href="mailto:mail@mail.com">
     <img src="https://img.shields.io/badge/Email-jvictoregosum%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
-  <a href="https://www.linkedin.com/in/JVictorJ">
-    <img src="https://img.shields.io/badge/LinkedIn-jvictorj-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-
 </p>
 
 
@@ -55,13 +51,13 @@
 
 ---
 
-<!--
+
   🏆 Trophies, quando pagarem a conta, descomento
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=J-VictorJ&theme=darkhub&no-frame=true&no-bg=false&margin-w=8&row=1" alt="Trophies do GitHub"/>
 </p>
--->
+
 
 ### 📊 GitHub Stats
 
