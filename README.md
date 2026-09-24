@@ -51,13 +51,13 @@
 
 ---
 
-
+<!--
   🏆 Trophies, quando pagarem a conta, descomento
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=J-VictorJ&theme=darkhub&no-frame=true&no-bg=false&margin-w=8&row=1" alt="Trophies do GitHub"/>
 </p>
-
+-->
 
 ### 📊 GitHub Stats
 
